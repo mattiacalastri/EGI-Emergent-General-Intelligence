@@ -119,6 +119,15 @@ The terms "Emergent General Intelligence" (EGI) and "Forger Method" are propriet
 - 🌐 [mattiacalastri.com](https://mattiacalastri.com) · [digitalastra.it](https://digitalastra.it)
 - 📧 Correspondence: **mattia@digitalastra.it**
 
+## 🐙 Polpo Ecosystem
+
+This paper is the theoretical foundation. For the practical implementation:
+
+- 🐙 [**Polpo Garden**](https://github.com/mattiacalastri/polpo-garden) — the distilled knowledge graph (Obsidian vault) of the Polpo. Ideas, principles, procedures, synapses. The conceptual hub of the ecosystem.
+- ⚒️ [AI Forging Kit](https://github.com/mattiacalastri/AI-Forging-Kit) — the complete forging method (900+ sessions distilled)
+- 🌿 [Polpo Soul](https://github.com/mattiacalastri/polpo-soul) — ritualistic skills for Claude Code (garden-walk, flow, session-end)
+- 🛠️ [Polpo Supremo](https://github.com/mattiacalastri/polpo-supremo) — 9 agentic tools (security, memory, context, orchestration)
+
 ---
 
 <div align="center">
